@@ -4,7 +4,7 @@ A work in progress crypto trading bot for experimental purpose...
 
 ## Prerequisites
 
-Create an account on infura.io and get your own api key then paste it in the .env file
+Create an account on [infura](infura.io) and get your own api key then paste it in the .env file
 
 ## Installation
 ```
